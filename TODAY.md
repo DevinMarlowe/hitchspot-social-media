@@ -1,89 +1,70 @@
-# Today's manual posts: Fri Nov 6, 2026
+# Today's manual posts: Sat Nov 7, 2026
 
-Posted by Devin from his phone during the warm-up (TikTok until ~Dec 1, Pinterest until Blotato accepts it). Instagram (11:30) and Facebook (12:15) get the Youbou venue post automatically today. No YouTube today.
+Posted by Devin from his phone during the warm-up (TikTok until ~Dec 1, Pinterest until Blotato accepts it). Instagram (11:30) and YouTube Shorts (17:00) get today's post automatically. No Facebook today.
+
+Just one TikTok today, so if any earlier days' posts are still waiting, this is a good day to catch up on one of them.
 
 To save an image on your phone: tap it, then press and hold, then **Save to Photos**. Save them in the order shown.
 
 ---
 
-## 1. TikTok (photo carousel): Youbou lakefront venue
+## 1. TikTok (photo carousel): 4 small BC venues
 
-Upload in this order (5 images):
+Upload in this order (10 images):
 
-1. ![cover](media/2026-11/2026-11-06-f1-lakefront-cabins-youbou/slide-01.png)
-2. ![photo 1](https://tvszqngeojoemrnunxjm.supabase.co/storage/v1/object/public/venue-images/130/venue-1792530630546-pauwnzx.jpg)
-3. ![photo 2](https://tvszqngeojoemrnunxjm.supabase.co/storage/v1/object/public/venue-images/130/venue-1792530631648-wvusbho.jpg)
-4. ![photo 3](https://tvszqngeojoemrnunxjm.supabase.co/storage/v1/object/public/venue-images/130/venue-1792530632759-424pnq6.jpg)
-5. ![closing](media/2026-11/2026-11-06-f1-lakefront-cabins-youbou/slide-02.png)
-
-**Caption** (copy):
-
-```
-A lakefront wedding in Youbou, on Cowichan Lake. Luxury Lakefront A-Frame Cabins has A-frame cabins with hot tubs and room for up to 60 people. Swipe for the photos, then check your date on Hitchspot.
-
-Photos: Luxury Lakefront A-Frame Cabins
-
-#vancouverislandwedding #cowichanvalley #bcwedding #lakewedding #bcweddingvenue
-```
-
-**Settings:** Photo mode · soft instrumental sound · Location: **Youbou, BC** (or Lake Cowichan, BC) · Content disclosure: **Your brand** · AI-generated: off · Everyone can view.
-
-Quick check before posting: the three listing photos could not be previewed from the cloud. If any of them shows a couple rather than the venue, leave that one out. Also on Instagram/Facebook today, so if one is a problem there, tell me.
-
----
-
-## 2. TikTok (photo carousel): Okanagan winery questions
-
-Post this one a few hours after the first (or tomorrow morning if the day gets away).
-
-Upload in this order (7 images):
-
-1. ![cover](media/2026-11/2026-11-06-f4-okanagan-questions-story/slide-01.png)
-2. ![1](media/2026-11/2026-11-06-f4-okanagan-questions-story/slide-02.png)
-3. ![2](media/2026-11/2026-11-06-f4-okanagan-questions-story/slide-03.png)
-4. ![3](media/2026-11/2026-11-06-f4-okanagan-questions-story/slide-04.png)
-5. ![4](media/2026-11/2026-11-06-f4-okanagan-questions-story/slide-05.png)
-6. ![5](media/2026-11/2026-11-06-f4-okanagan-questions-story/slide-06.png)
-7. ![closing](media/2026-11/2026-11-06-f4-okanagan-questions-story/slide-07.png)
+1. ![cover](media/2026-11/2026-11-07-f3-small-venues-story/slide-01.png)
+2. ![1 Victoria](media/2026-11/2026-11-07-f3-small-venues-story/slide-02.png)
+3. ![Victoria photo](https://tvszqngeojoemrnunxjm.supabase.co/storage/v1/object/public/venue-images/3/venue-1791416124243-a0uvtv9.jpg)
+4. ![2 Youbou](media/2026-11/2026-11-07-f3-small-venues-story/slide-03.png)
+5. ![Youbou photo](https://tvszqngeojoemrnunxjm.supabase.co/storage/v1/object/public/venue-images/130/venue-1792530630546-pauwnzx.jpg)
+6. ![3 Penticton](media/2026-11/2026-11-07-f3-small-venues-story/slide-04.png)
+7. ![Penticton photo](https://tvszqngeojoemrnunxjm.supabase.co/storage/v1/object/public/venue-images/128/venue-1792277722792-mcu9n7a.jpg)
+8. ![4 Golden](media/2026-11/2026-11-07-f3-small-venues-story/slide-05.png)
+9. ![Golden photo](https://tvszqngeojoemrnunxjm.supabase.co/storage/v1/object/public/venue-images/129/venue-1792429658072-kgj5e4t.jpg)
+10. ![closing](media/2026-11/2026-11-07-f3-small-venues-story/slide-06.png)
 
 **Caption** (copy):
 
 ```
-Planning a summer winery wedding in the Okanagan? Ask your venue these 5 before you book: a smoke backup plan, fire bans, shade in the heat, harvest timing and the ride home from Naramata to Oliver.
+Small BC wedding? Here are 4 venues on Hitchspot for 80 people or fewer.
 
-Find Okanagan venues like Hillside Winery & Bistro in Penticton on Hitchspot.
+A beachfront backyard in Victoria, up to 40 people. A-frame cabins with hot tubs in Youbou, on Cowichan Lake, up to 60. A vineyard in Penticton, up to 65. A mountain lodge in Golden, up to 80.
 
-#okanaganwedding #kelownawedding #winerywedding #bcwedding
+Swipe for the photos, then check your date on Hitchspot.
+
+Photos: Victoria Beachfront Yard, Luxury Lakefront A-Frame Cabins, Hillside Winery & Bistro, Hillside Lodge & Chalets
+
+#bcwedding #bcweddingvenue #smallwedding #vancouverislandwedding #okanaganwedding
 ```
 
-**Settings:** Photo mode · soft instrumental sound · Location: **Kelowna, BC** (or Penticton, BC) · Content disclosure: **Your brand** · AI-generated: off · Everyone can view.
+**Settings:** Photo mode · soft instrumental sound · Location: **British Columbia** (or Victoria, BC) · Content disclosure: **Your brand** · AI-generated: off · Everyone can view.
+
+Quick check before posting: the four listing photos could not be previewed from the cloud. If any of them shows a couple rather than the venue, leave that one out. The same photos go on Instagram at 11:30, so if one is a problem, tell me.
 
 ---
 
-## 3. Pinterest (1 pin), any time today
+## 2. Pinterest (1 pin), any time today
 
 Image:
 
-![pin](media/2026-11/2026-11-06-f4-okanagan-questions-pin/slide-01.png)
+![pin](media/2026-11/2026-11-07-f3-small-venues-pin/slide-01.png)
 
 On pinterest.com (or the app): **Create**, then **Create Pin**, upload the image, then fill in:
 
-- **Title:** `5 questions to ask an Okanagan winery wedding venue`
+- **Title:** `4 small wedding venues in BC for 80 people or fewer`
 - **Description:**
   ```
-  Planning a summer winery wedding in Kelowna, Penticton, Naramata or Oliver? Ask your venue about an indoor backup if wildfire smoke rolls in, what a campfire ban means for your plans (one ran across the Kamloops Fire Centre from July 10 to October 9 in 2026), where the shade is on a 35°C day, how grape harvest (early September through October) affects the winery, and how everyone gets home. Find Okanagan venues and ask about your date at hitchspot.co.
+  Planning a small wedding in British Columbia? Four venues for 80 people or fewer: a beachfront backyard in Victoria (up to 40), A-frame cabins with hot tubs in Youbou on Cowichan Lake (up to 60), a vineyard in Penticton (up to 65) and a mountain lodge in Golden (up to 80). Find them and check your date at hitchspot.co. #bcwedding #bcweddingvenue #smallwedding #vancouverislandwedding
   ```
-- **Link:** `https://hitchspot.co/venues?utm_source=pinterest&utm_medium=social&utm_campaign=f4-okanagan-questions`
-- **Board:** Okanagan Winery Weddings
+- **Link:** `https://hitchspot.co/venues?utm_source=pinterest&utm_medium=social&utm_campaign=f3-small-venues`
+- **Board:** BC Wedding Venues
 
 Then **Publish**.
 
 ---
 
-## 4. 10 minutes of warm-up
+## 3. 10 minutes of warm-up
 
-On TikTok and Pinterest: search "Okanagan wedding", "Kelowna winery wedding", "Vancouver Island wedding" and "BC wedding venue". Watch, like and save what's good, and follow a few BC venues.
-
-If earlier days' posts did not go up, skip them; today's are the priority.
+On TikTok and Pinterest: search "small wedding BC", "Victoria wedding venue", "Vancouver Island wedding" and "BC wedding venue". Watch, like and save what's good, and follow a few BC venues.
 
 When done, reply "posted" in the Hitchspot chat (or don't; the next run checks the accounts).
